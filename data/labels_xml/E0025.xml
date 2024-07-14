@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>E0025.png</filename>
+	<path>E:\AI Project\data\images\E0025.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drowsy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>37</ymin>
+			<xmax>213</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>
