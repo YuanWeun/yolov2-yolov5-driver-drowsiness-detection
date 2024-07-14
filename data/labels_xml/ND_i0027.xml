@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ND_i0027.png</filename>
+	<path>E:\AI Project\data\images\ND_i0027.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>48</ymin>
+			<xmax>197</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
